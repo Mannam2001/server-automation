@@ -1,4 +1,4 @@
-#!/bib/bash
+#!/bin/bash
 
 echo "Disk Usage:"
 df -h
